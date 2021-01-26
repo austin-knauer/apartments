@@ -115,8 +115,8 @@ body {
 
 #title {
 	border-radius: 100%;
-	width: 50vh;
-	height: 50vh;
+	width: 50min;
+	height: 50vmin;
 	background-color: rgb(24, 16, 8);
 	color: white;
 	top: 25%;
