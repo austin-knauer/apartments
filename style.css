@@ -119,9 +119,9 @@ body {
 	height: 50vmin;
 	background-color: rgb(24, 16, 8);
 	color: white;
-	top: 25%;
-	left: calc(50% - 25vh);
-	right: calc(50% - 25vh);
+	top: calc(50% - 25vmin);
+	left: calc(50% - 25vmin);
+	right: calc(50% - 25vmin);
 	padding: 0;
 	display: flex;
 	flex-flow: column nowrap;
